@@ -15,7 +15,7 @@ public class Main {
         System.out.println("---------------------------");
         System.out.println(list.getOnIndex(6));
     list.remove(6);
-        System.out.println("---------------------------");
+        System.out.println("----------------------------");
         System.out.println(list.getOnIndex(6));
     }
 

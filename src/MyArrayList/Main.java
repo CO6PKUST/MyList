@@ -22,6 +22,7 @@ public class Main {
         System.out.println("размер массива текущий " + myArrayList.size());
         }
     }
+
     class MyArrayList<T>{
     private int INIT_SIZE = 16;
     private  int CUT_RATE = 4;
